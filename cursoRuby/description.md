@@ -1,7 +1,6 @@
-##descrição
+Descrição
 
-****
 
-pretendo descrever aqui ao longo desse curso meu resumo de todas as aulas
+Pretendo descrever aqui ao longo desse curso meu resumo de todas as aulas
 
  
